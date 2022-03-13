@@ -1,1 +1,19 @@
 Hello World!
+
+git init
+
+git branch -M main
+
+git remote add origin https://github.com/mentalhetal/Sample.git
+
+git add Test.txt
+
+docs: 제목
+내용
+
+ESC키 누르고 쉬프트+; -> wq 엔터
+
+git push -u origin main
+
+
+
